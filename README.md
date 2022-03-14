@@ -7,31 +7,6 @@
 
 
 
-#### Azure Cloud Administration
-
-Azure Portal
-https://portal.azure.com
-
-Azure Active Directory
-https://aad.portal.azure.com
-
-
-#### Microsoft 365 Administration
-
-Microsoft 365 Admin Portal
-https://admin.microsoft.com
-
-Microsoft Security Portal
-https://security.microsoft.com
-
-Microsoft Cloud Apps Security
-http://portal.cloudappsecurity.com
-
-Microsoft Intune
-https://endpoint.microsoft.com
-
-
-
 
 
 
