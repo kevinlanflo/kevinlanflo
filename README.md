@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Azure Migragtion
+- 🔭 I’m currently working on Azure Migration
 - 🌱 I’m currently learning Terrafrom
 - 📫 How to reach me: kevin.lanflo@outlook.com
 
